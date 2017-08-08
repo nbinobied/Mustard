@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Xman/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/Xman/AndroidStudioProjects/Mustard/app/build/intermediates/pre-dexed/debug/gson-2.2.4-ad0576cce3e48f3eb9dc04af8b75b8ef56300f27.jar" />
+    </item>
+    <item
+        jar="/Users/Xman/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/Users/Xman/AndroidStudioProjects/Mustard/app/build/intermediates/pre-dexed/debug/okhttp-2.0.0-aa2e0fa5d1c41407c430a3859855381856ec59c8.jar" />
+    </item>
+    <item
+        jar="/Users/Xman/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Xman/AndroidStudioProjects/Mustard/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-09561bed1cab40c9ecdc1d7eee534bcff88270c5.jar" />
+    </item>
+    <item
+        jar="/Users/Xman/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.1/39eff75ddcb987ff65888361a29f489c178429a3/okio-1.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39eff75ddcb987ff65888361a29f489c178429a3">
+        <dex dex="/Users/Xman/AndroidStudioProjects/Mustard/app/build/intermediates/pre-dexed/debug/okio-1.0.1-332b8fd546d12f5c363957ca8e08e68ff6c8385f.jar" />
+    </item>
+    <item
+        jar="/Users/Xman/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.0.0/afe8399d352713b66e597e9670c741d1e60ae923/okhttp-urlconnection-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="/Users/Xman/AndroidStudioProjects/Mustard/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.0.0-deab627ba40c7744f4d9dc79a434b69d856e4c3d.jar" />
+    </item>
+    <item
+        jar="/Users/Xman/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.6.1/efb0a36546aa8857ab8df358b106c1817e03cbee/retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="/Users/Xman/AndroidStudioProjects/Mustard/app/build/intermediates/pre-dexed/debug/retrofit-1.6.1-6aff958b49d7766c4844050d5d18ff285c206bfe.jar" />
+    </item>
+
+</items>
